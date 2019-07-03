@@ -62,7 +62,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///test?characterEncoding=utf8
     username: root
-    password: 111
+    password: root
 
 eureka:
   # 指定eureka服务中心
